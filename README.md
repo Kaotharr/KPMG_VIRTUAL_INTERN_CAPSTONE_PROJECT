@@ -1,5 +1,5 @@
 # KPMG_VIRTUAL_INTERN_CAPSTONE_PROJECT
-## This is a capstone project from participating in the virtual internship organized by Forage
+## This is a capstone project for participating in the virtual internship organized by Forage
 The Datasets, analysis, and dashboard can be found in this Excel Workbook [KPMG FINAL SUB.xlsx](https://github.com/Kaotharr/KPMG_VIRTUAL_INTERN_CAPSTONE_PROJECT/files/10860207/KPMG.FINAL.SUB.xlsx)
 
 Sprocket Central Limited is a fictitous Bike selling company and they have recently accquired 10001 new customers. The analysis will explore which age group the company should target and how much of sales is consumed by cost, and also see if the company is breaking even or unable to cover cost 
