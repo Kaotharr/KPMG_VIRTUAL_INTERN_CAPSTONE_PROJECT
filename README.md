@@ -20,6 +20,7 @@ The New South Wales generated the highest profit for each month.
 
 **Profit and cost Per Month**
 For the month of October, the chart below shows the cost line above the profit line
+
 ![image](https://user-images.githubusercontent.com/105249585/222109649-14e820bf-7382-4ace-af8a-6b2a48990198.png)
 
 
@@ -36,6 +37,7 @@ The Mass Customers are responsible for driving high sales on a daily basis. This
 
 **Sprocket Central Limited Dashboard**
 The above tiles have been merged and  visualized into the dashboard below.
+
 ![image](https://user-images.githubusercontent.com/105249585/222111508-84477ee4-2d43-47d1-8560-d09f050d2b90.png)
 
 
